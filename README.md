@@ -4,6 +4,9 @@ Created Responsive Grocery website using HTML, CSS and JavaScript
 
 # Live Demo => https://animated-semolina-6d48e0.netlify.app/
 
+# Installation 
+git clone https://github.com/Jyo20/Grocery-Store.git
+
 # Screenshots
 
 ![Screenshot (222)](https://user-images.githubusercontent.com/107462951/195981136-ec1d40d1-17b3-4f22-aabb-bb7c96675260.png)
